@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "eb626fef50c7b6d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08b2d11bf33e93a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NUS/report1.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a430a29c3277b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bfa438d57f27d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bf2bee0299a63e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dbd396dc66404b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245
+  },
+  "right": {
+    "id": "53d6393c368edbca",
+    "type": "split",
+    "children": [
+      {
+        "id": "8adffd1de1b32f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c78d01794593332",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NUS/report1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b08b2d11bf33e93a",
+  "lastOpenFiles": [
+    "NUS/report3.md",
+    "NUS/report2.md",
+    "NUS/report1.md",
+    "NUS/CS 5242 - HW5.md",
+    "NUS/CS 5242 - HW3.md",
+    "ML_Old-Coursera-AndrewNg/ML_Week_2.md",
+    "ML_Old-Coursera-AndrewNg/ML_Week_1.md",
+    "NUS/CS 5242 - HW5.pdf",
+    "Untitled.md",
+    "ML_Old-Coursera-AndrewNg/ML_Week_3.md"
+  ]
+}

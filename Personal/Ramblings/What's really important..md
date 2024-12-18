@@ -1,0 +1,3 @@
+- Feeling like you have a purpose and your work meaningful
+- Enjoying the game. Winning is secondary. Wanting to win at the cost of enjoyment will make you averse to the game very soon.
+- Truth is important. Knowledge and learning are secondary. Feeling and experiences = Truth.

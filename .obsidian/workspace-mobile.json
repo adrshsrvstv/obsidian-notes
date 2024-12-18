@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "1eaaedde4cd0e014",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec49d0f78bade693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3cae580867af8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Optimal Protocols for Studying and Learning.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimal Protocols for Studying and Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9de4a5d119978084",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca9ab4949999c285",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2da7d3f7fc89ca0e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b5e886dd8bd741f2",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "bf9f22e3530a1e48",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "7e87acf32c0d62f4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e45d82abc0babfef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f680c3892702c990",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal/The Practicing Mind - Book Notes.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e48e97671f659b9e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal/The Practicing Mind - Book Notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "a3cae580867af8e9",
+  "lastOpenFiles": [
+    "Personal/Optimal Protocols for Studying and Learning.md",
+    "Personal/The Practicing Mind - Book Notes.md",
+    "Thesis/Structuring the thesis.md",
+    "Thesis/Overall Structure.md",
+    "Thesis/Background.md",
+    "Thesis/results.md",
+    "bash.md",
+    "scratch.md",
+    "Thesis/Intro.md",
+    "Thesis/attachments/Writing a Computer Science Thesis_withMarginNotes.pdf",
+    "Thesis/attachments/thesis.pdf",
+    "Thesis/attachments",
+    "Thesis/Review Comments.md",
+    "bash_commands.md",
+    "MOOCs/Startup School/attachments/Screen Shot 2022-07-11 at 10.45.44 PM.png",
+    "MOOCs/ML_Old-Coursera-AndrewNg/attachments/0cOOdKsMEeaCrQqTpeD5ng_2a806eb8d988461f716f4799915ab779_Screenshot-2016-11-15-00.23.30.png",
+    "MOOCs/DL_Coursera_AndrewNg/DL_Week_2.md",
+    "MOOCs/DL_Coursera_AndrewNg/DL _Week 1.md",
+    "MOOCs/Startup School/Startup School_4_110722_KPI, Time, MVP.md",
+    "MOOCs/Startup School/attachments",
+    "MOOCs/Startup School/Startup School _1_270622_Should I Start A Startup.md",
+    "MOOCs/Startup School/Startup School_2_290622_Boom Supersonic.md",
+    "MOOCs/Startup School/Startup School_6_18072_How to Launch_How to Talk to Users.md",
+    "MOOCs/ML_Old-Coursera-AndrewNg/attachments",
+    "MOOCs/ML_Old-Coursera-AndrewNg/ML_Week_1.md",
+    "MOOCs/ML_Old-Coursera-AndrewNg/ML_Week_2.md",
+    "MOOCs/ML_Old-Coursera-AndrewNg/ML_Week_3.md",
+    "MOOCs/DL_Coursera_AndrewNg",
+    "MOOCs/Startup School",
+    "MOOCs/ML_Old-Coursera-AndrewNg",
+    "MOOCs",
+    "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-23 at 4.37.00 PM.png",
+    "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-29 at 3.03.50 AM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 6.11.59 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 6.32.54 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 9.13.59 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-11 at 12.26.05 AM.png",
+    "NUS/Sem 2/IR/Lab2_A0254358X.md",
+    "NUS/Sem 2/IR/A0254358X-HW2.md",
+    "NUS/Sem 4/Big Data/Big Data - Lecture 5, 6.md",
+    "NUS/Sem 4/Big Data/Big Data - Lecture 1, 2.md",
+    "NUS/Sem 4/Big Data/attachments",
+    "NUS/Sem 4/Big Data/Big Data - Lecture 3, 4, and MapReduce paper.md",
+    "NUS/Sem 4/Big Data/Big Data L9, T3 - Streams.md",
+    "Big Data/attachments/Screenshot 2024-04-23 at 4.37.00 PM.png",
+    "Big Data/attachments/Screenshot 2024-04-29 at 3.03.50 AM.png"
+  ]
+}

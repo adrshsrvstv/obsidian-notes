@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "override"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "translucency": false,
+  "textFontFamily": "iA Writer Duo V",
+  "accentColor": "",
+  "monospaceFontFamily": "Andale Mono",
+  "nativeMenus": true,
+  "showViewHeader": false
+}

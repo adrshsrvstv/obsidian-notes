@@ -1,0 +1,51 @@
+/* Editor font: make thicker */
+.cm-s-obsidian .CodeMirror-line * {
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.cm-s-obsidian .cm-header {
+    -webkit-font-smoothing: antialiased !important;
+}
+
+.markdown-source-view {
+    -webkit-font-smoothing: antialiased !important;
+    margin-left: 0;
+}
+
+.markdown-preview-view {
+  -webkit-font-smoothing: antialiased !important;
+  margin-left: 0;
+}
+
+/* this DOES affect the sidepanels like File Explorer, Search too */
+html {
+  -webkit-font-smoothing: antialiased !important;
+}
+
+:root { --normal-weight:150; }
+
+blockquote:before {
+  font: 14px/20px italic Times, serif;
+  content: "“";
+  font-size: 3em;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+/* Remove blockquote left margin */
+blockquote {
+  margin-inline-start: 0;
+}
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-scroller > *:first-child {
+  margin-left: 0;
+}

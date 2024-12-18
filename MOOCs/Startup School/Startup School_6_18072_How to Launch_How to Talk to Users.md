@@ -1,0 +1,85 @@
+# How to Launch Again & Again - Kathleen Mañalac
+- People think the launch is a one time opportunity and has to be perfect
+	- People don't care - if you take 6 months to prepare a launch, you'll be dead by then
+	- Launch fast and launch again and again
+- When should you launch then? 
+	- RIGHT NOW!
+	- Don't let your theoretical notions of how you're going to solve the problem come in the way of getting the actual feedback and iterating over it
+	- Airbnb launched 3 times! If you launch and nobody notices - iterate and launch again
+	- Launch and iterate until you have a core of users (if only 10) who LOVE you.
+- But I'm an exception! NOOOO!
+	- Doesn't matter if you're biotech, aerospace, or futuristic tech
+- How should you launch
+	- A CLEAR idea is your foundation
+	- Founders should be able to explain this idea as clearly and succinctly as possible - at a 5 year old level
+	- How?
+		- Lead with what, not why.
+			- Give people the context upfront and get to the point - who you are and WHAT you do
+			- Backstory later - tell people WHAT you're building first
+			- People have short attention spans - don't lose them in first 10 seconds
+		- No meaningless jargon - tell people what you ACTUALLY do - not some coorporate bullshit
+			- People should immediately get an idea about what EXACTLY you do
+			- X for Y constructions - "uber for food", "airbnb for officespace" - are overused analogies, and try to avoid them if it's easy to say what you do in a different way
+		- Best one liners for your company are short, descriptive, have little jargon, and let people see what you've built without bullshit or backstory
+	- Types of Launches:
+		- Silent launch: 
+			- domain
+			- company name
+			- description
+			- contact
+			- call for action ("Sign up for our launch!")
+		- Friends and Family Launch:
+			- Do it as soon as you have an MVP
+			- Don't stay here for too long
+			- Take their feedback, but iterate and move on quickly, because they may not be your ideal customers, and their feedback may not matter so much
+		- Strangers:
+			- Doordash had it's MVP out in a few hours (after they had talked to about 200 of restuarant owners)
+			- Don't wait too long to launch to strangers else you'll miss early feedback
+		- Online Communities:
+			- HN, Discord, Startup School internal forum
+			- Be authentic - write like you talk. No jargons, no showy flowy writing -nobody has time for that.
+		- Pre-order Launch:
+			- If you're a hardware company - you can launch on indiegogo or kickstarter - though there are caveats and people are increasingly becoming sceptical of these.
+		- Waitlist launch:
+			- If you are unsure of how many people you can take on - try waitlists and see if people want it.
+			- Just don't sit on your waitlists for too long
+			- But launch to everyone as soon as you can.
+		- Build a community:
+			- Launch again and again on the same platforms (HN, reddit, twitter) and take direct questions from your customers supporters and sceptics.
+
+
+- Also watch:
+	- https://www.youtube.com/watch?v=f0tPjcgcwnQ
+
+
+# How to Talk to Users
+- Talk to users throughout the lifetime of your company.
+	- Brian Chesky still takes calls from airbnb customers
+- How to interview potential customers?
+	- Video/phone/or in person - no in writing. (Although, there are customer groups very hard to talk to. Make it possible for them to have an email conversation - cuz they really may not have 20 minutes to talk to you.)
+	- build rapport
+	- DON'T introduce your idea till the very end
+	- LISTEN, not talk
+	- Ask open ended questions
+	- Take notes
+- Questions to ask:
+	- Tell me how you do X today
+	- What is the hardest thing you're doing about X
+	- Why is it hard
+	- How often do you do X
+	- Why is  it important for you company to do X
+	- What have you done to solve this problem for yourself
+- Questions to NOT ask:
+	- Will you use our product?
+	- Which features would make product x better? (Users have good problems but BAD solutions, they also have no incentive to saying NO to features - they'll say yes to everything)
+	- yes/no questions
+	- How would a better product look like? (They are not product managers)
+- After the interview:
+	- Put major points from your notes on sticky notes and connect them  - see the patterns and find an MVP out of that
+	- Don't over intellectualize though!
+	- Keep users involved:
+		- Create a Slack/Whatsapp group with them
+		- Give them exclusive access to your prototypes and make them feel special
+- Choose your users wisely:
+	- People like contractors or plumbers or doctors don't change their tools very often - they may not be very open to change
+	- Startups on the other hand are changing all the time and will be very open to trying new things

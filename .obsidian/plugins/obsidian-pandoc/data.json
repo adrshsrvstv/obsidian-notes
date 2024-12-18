@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "strip",
+  "highDPIDiagrams": true,
+  "pandoc": "/opt/homebrew/bin/pandoc",
+  "pdflatex": "/Library/TeX/texbin/pdflatex",
+  "outputFolder": "/Users/adrshsrvstv/Documents",
+  "extraArguments": "--defaults defaults -V geometry:a4paper -V colorlinks=true",
+  "exportFrom": "md"
+}

@@ -1,0 +1,81 @@
+# MVP - Siegel
+- Why don't people build MVPs:
+	- Fear - What do you fear will happen if your MVP sucks?
+	- Fake Steve Jobs Confidence: Let me just build a perfect thing!
+		- Except that the real Jobs never built perfect products - even the first iphone sucked in hundreds of ways
+- Basic Spec for MVP:
+	- Very fast to build - weeks not months to ship
+	- Very limited functionality
+	- Appeal to a small set of users
+		- Solve problems for folks with the most pain -  people with hair-on-fire problems
+		-  ![hair on fire problem | 200](attachments/Screen%20Shot%202022-07-11%20at%2010.45.44%20PM.png)
+		- You could obviously sell a bucket of water to someone with their hair on fire. But, you could also sell them a brick. Their HAIR is on FIRE!! They will buy your brick to beat the fire out with it!
+- Why MVP though? Can't I just survey my customers?
+	- Customers are good at telling you whether they like your product or not, but not good at telling you what exactly they want to solve their problems.
+	- So talk to users with an MVP - you'll learn more from the customer that way
+- How to build MVP:
+	- Time box your spec
+	- WRITE your spec - don't just have it in your head.
+	- Cut 30 - 50% of the first spec
+	- Don't fall in love with the MVP or your product. Be in love with your customer or their problems
+	- "Better to have a 100 people who love your product, than a 100K who KINDA like it."
+- Hardware products are much harder to iterate and test hypothesis and re-iterate - 10X harder than just software products.
+- How do you compete with an entrenched big incumbent:
+	- Pick the battlefield that YOU want to fight on ("We are the fastest payment integration you could get", not what the incumbent has chosen for you ("We have 200 features!")
+
+# Prioritization
+- How do spend your time as a founder:
+	- Goal: Get to product market fit as quick as possible
+- KPI - metrics that you track and report on - internally and externally
+	- They tell you if what you are doing is helping you to get to your goal of finding product market fit
+- Prioritizations - which things you do today - AND the super important things you DON'T do today. You'll never get to everything on your task list.
+- Insight: Use KPIs to prioritize your time and tasks. Prioritize what moves your top KPIs
+- In a startup, speed matters. Run fast, but make sure it's in the right direction. Don't waste time on useless things that don't matter.
+- What are wastes of time:
+	- Optimizing paperwork
+	- Perfecting things
+	- Premature optimization
+	- Choosing intellectually hard problems instead of something that people can immediately use
+- To prioritise:
+	- Identify KPIs. This should usually be revenue growth for a launched startup - a non-revenue KPI is rarely the right one
+		- What are your goals this week? Have laser focus on weekly growth goals
+		- Find what your bottleneck to KPI growth is.
+		- How to move KPIs:
+			- Rank ideas that help you remove blockers for your biggest KPIs
+			- Track KPI as you work on those ideas. Be honest if this moves your KPI. If not, why?
+			- Do retros - honestly. Change what doesn't work, double down if it does.
+			- Move fast.
+			- Try a few ideas fast, talk to users fast, build and iterate fast, see if it works.
+			- Perfectionism and indecision are your enemy - **fast decisions are good decisions**. Make a quick decision, fail quickly, learn quickly. Pick a decision, keep moving.
+	- What isn't useful:
+		- Fake progress:
+			- investor coffees
+			- conferences
+			- Arbitrary technical milestones
+		- Mitigating downsides instead of chasing upside.
+			- Fixing little problems is easy, but nor where the growth happens.
+			- Innovation and creativity need risk taking and are what actually lead to growth.
+		- Working on secondary problems
+		- Not being honest with yourself when things aren't working.
+			- Fast growth coming out of good product market fit feels **fundamentally different** from slow growth.
+- Primary and Secondary KPI:
+	- Primary:
+		- Tells if your business is working
+		- Most commonly revenue growth
+	- Secondary:
+		- Things that can be tracked to make sure you're not cheating/gaming your primary KPI
+		- Small and relevant
+		- e.g. Unit economics, retention/churn/acquisition cost and payback period
+		- Be warned - these ARE NOT YOUR PRIMARY KPIs. Primary ones always take the priority on decisions. e.g. Optimizing for both revenue and unit economics can lead to a slow growth . Slow growth is a no man's land and may eventually kill you. 
+- How much growth is enough?
+	- Early growth matters - growth compounds
+	- 5-7% weekly - good
+	- 10% weekly - exceptional
+	- Other factors to consider:
+		- Paid vs organic growth (Do organic early on - don't waste money on ads/promos)
+		- Retention vs engagement (Short answer - do both. But optimize for most impact on revenue KPIs)
+	- Non-revenue KPIs:
+		- Customer acquisition cost / long term value. 
+		- Free signups/ Daily active users - good options for "network effect" products like marketplaces
+- Also check out:
+	- [Should You Focus on Growth or Profit?](https://www.youtube.com/watch?v=_IftUcR74yY)

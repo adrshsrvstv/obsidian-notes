@@ -1,0 +1,27 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "showLineNumber": true,
+  "showIndentGuide": false,
+  "promptDelete": true,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true,
+  "showRibbon": true
+}

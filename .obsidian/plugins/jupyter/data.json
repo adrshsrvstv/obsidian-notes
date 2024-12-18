@@ -1,0 +1,19 @@
+{
+  "pythonExecutable": "path",
+  "pythonExecutablePath": "/Users/adrshsrvstv/.venvs/default/bin/python",
+  "startJupyterAuto": true,
+  "jupyterEnvType": "notebook",
+  "useSimpleMode": true,
+  "deleteCheckpoints": false,
+  "moveCheckpointsToTrash": true,
+  "checkpointsFolder": "",
+  "updatePopup": true,
+  "displayServerRibbonIcon": true,
+  "useStatusNotices": true,
+  "displayFileRibbonIcon": true,
+  "displayFolderContextMenuItem": true,
+  "openCreatedFileMode": "current-tab",
+  "jupyterTimeoutMs": 30000,
+  "debugConsole": true,
+  "knownVersion": ""
+}

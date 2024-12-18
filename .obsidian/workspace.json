@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "eb626fef50c7b6d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3df360e51ffb2e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d43070054ed8a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a430a29c3277b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bfa438d57f27d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bf2bee0299a63e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9dbd396dc66404b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "daf5ae5796345bd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "53d6393c368edbca",
+    "type": "split",
+    "children": [
+      {
+        "id": "8adffd1de1b32f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c78d01794593332",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Thesis/Structuring the thesis.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Structuring the thesis"
+            }
+          },
+          {
+            "id": "800b59835175d803",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "38f91b1b36394b83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MOOCs/ML_Old-Coursera-AndrewNg/ML_Week_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ML_Week_2"
+            }
+          },
+          {
+            "id": "6b30419490c6653a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "303f14787161c45b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "MOOCs/ML_Old-Coursera-AndrewNg/ML_Week_2.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for ML_Week_2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "jupyter:Start Jupyter Server": false,
+      "jupyter:Create Jupyter Notebook": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "d3d43070054ed8a4",
+  "lastOpenFiles": [
+    "Useful Scripts/python.ipynb",
+    "Python_tut.ipynb",
+    "/Jupyter Notebook 2024-12-16-12-54-25.ipynb",
+    "Jupyter Notebook 2024-12-16-12-54-25.ipynb",
+    "Useful Scripts/bash.md",
+    "Useful Scripts/Python tut.md",
+    "Useful Scripts/Setting up Python.md",
+    "Templates/frontmatter.md",
+    "Thesis/Review Comments.md",
+    "Thesis/results.md",
+    "scratch.md",
+    "Personal/Stay Free.md",
+    "Useful Scripts",
+    "NUS/Sem 1/Uncertainty/Uncertainty_report2.md",
+    "NUS/Sem 1/Uncertainty/Uncertainty_report1.md",
+    "Personal/Time Management.md",
+    "Personal/The Practicing Mind - Book Notes.md",
+    "Personal/Ring doorbell setup notes.md",
+    "Personal/Andrew Huberman on Sugar.md",
+    "Personal/Andrew Huberman on Dopamine.md",
+    "NUS/Sem 4/Big Data/Big Data L9, T3 - Streams.md",
+    "Untitled.md",
+    "Papers/Untitled.md",
+    "Papers/brohanRT1RoboticsTransformer2022.md",
+    "NUS/Sem 4/Big Data/Big Data - Lecture 5, 6.md",
+    "NUS/Sem 4/Big Data/Big Data - Lecture 3, 4, and MapReduce paper.md",
+    "NUS/Sem 4/Big Data/Big Data - Lecture 1, 2.md",
+    "NUS/Sem 2/IR/Lab2_A0254358X.md",
+    "NUS/Sem 2/IR/A0254358X-HW2.md",
+    "NUS/Sem 1/NNDL/CS 5242 - HW5.md",
+    "Papers",
+    "Templates",
+    "Clippings",
+    "Thesis/attachments/Writing a Computer Science Thesis_withMarginNotes.pdf",
+    "Personal/attachments",
+    "Personal/Ramblings",
+    "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-29 at 3.03.50 AM.png",
+    "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-23 at 4.37.00 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 9.13.59 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 6.11.59 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 6.32.54 PM.png",
+    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-11 at 12.26.05 AM.png",
+    "MOOCs/Startup School/attachments/Screen Shot 2022-07-11 at 10.45.44 PM.png"
+  ]
+}

@@ -1,0 +1,87 @@
+---
+title: Andrew Huberman on Dopamine
+subtitle: 
+author: 
+date: 
+tags:
+---
+Link: [Controlling Your Dopamine For Motivation, Focus & Satisfaction - YouTube](https://www.youtube.com/watch?v=QmOF0crdyRU) #dopamine
+#andrew-huberman 
+
+- Cold water exposure - sustained increase in dopamine by about 250%
+- Dopamine peaks are followed by drop in baseline dopamine level - tonic (baseline) and phasic (peaks) release of dopamine interact
+- Dopamine controls drive, motivation, craving, desire, outwardness, willingness to push through effort. Primary determinant. #motivation #craving 
+- Dopamine is a neuro-modulator - influences/coordinating communication of multiple neurons. It modulates a bunch of things
+- Dopamine determines time perception
+- Dopamine uses two main neural circuits:
+	- Ventral tegmenjtum, from here to Ventral Striatum and prefrontal cortex: *Meso cortical limbic pathway* (reward, reinforcement and motivation pathway) this is the pathway that enables dopamine to influence motivation, drive, and addiction #meso-limbic-pathway 
+	- Nigrostriatal pathway: important for movement
+- Dopamine can be released in two ways:
+	- local release or synaptic release: locally between bunch of neurons
+	- volumetric release: burst of release affecting lots of neurons
+- Many supplements affect both local and volumetric: They make it harder to sustain dopamine levels because they elevate both, thereby reducing the relative difference between baseline and peak levels, which is what matters
+- Neurons influence in two major ways:
+	- Fast - inotropic conductions - through ions, mainly sodium
+	- Slower but cascade of effects - g protein coupled receptors - this is how dopamine influences other neurons. Binds to next neuron - sets off a cascade of influence to multiple other neurons connected. Very powerful - can affect gene expression
+- Dopamine neurons co-releases glutamate - make you more active, outward
+- Dopamine is the currency that you use to track success/pleasure
+- Dopamine levels matter *relative* to your recent experience - even a moderate amount of dopamine can feel low if you are coming from a peak
+	- This is what causes increase in threshold of dopamine to get the same amount of pleasure from repeated similar experience - say a drug
+- All of us have different baseline levels of dopamine:
+	- Genetic factors
+	- Close cousins influence levels: epinephrine (energy neurotransmitter - wakes up/makes us "ready", precursor of adrenaline), adrenaline - they are both made from dopamine. Peaks of these three inevitably happen in quick succession. Adrenaline alone can be fear, frozen-ness, scary. Dopamine colours this experience to make it excitement. #adrenaline #epinephrine
+- What increases dopamine (above baseline):
+	- Chocolate increases baseline 1.5X. Transient though - lasts minutes
+	- Sex - both pursuit and the act of sex. 2X increase from baseline.
+	- Nicotine - 2.5X. Very transient.
+	- Cocaine. 2.5X above baseline
+	- Amphetamine: 10X above baseline
+	- Exercise: Depends on how much you like it. If you like it - 2X increase. If you dislike/don't enjoy it - lower increase. Post activity rewards actually make things worse and undermine the dopamine release #exercise 
+	- Caffeine: Modest increase in dopamine. Regular ingestion though, can increase up-regulation of receptors - letting you experience more of it. Increases density of g protein receptors. #caffeine 
+- Why dopamine:
+	- Dopamine is the currency of seeking things
+	- Drives you to go out and look for things
+	- Dopamine release indicates success
+	- Goes back down so you continue to "forage" for more
+	- The higher the peak, the lower the dip below baseline the levels drop post the peak. The drops are sustained - they take a bit of time to get back up
+- Pleasure pain balance:
+	- There is pleasure, and then the "pain" of wanting more, which is due to the lack of dopamine post a peak. Post a dopamine peak, there is an increase in neural circuits controlling frustration, pain, and lack. 
+	- There is depletion of "ready to deploy" dopamine after a high peak - the vesicles get depleted of the readily available dopamine. A big part of the pleasure pain balance hinges on this, aside from other factors.
+	- This is the reason for drop in dopamine post a huge increase in dopamine.
+- Addiction:
+	- This is what leads of decrease in pleasure from things that excite and addict us - video games, sex, porn. Soon, you can only experience a dopamine high from these things, which leads to a loss of interest in other activities. And typically, soon after that, even that addiction doesn't give you the pleasure anymore, and you can go into severe depression. This can feel like not having any interest in life, loss of focus, concentration and drive. #addiction
+- Dopamine fast:
+	- Abstaining from any dopamine related activities - phone, social media, food, video games
+	- That is how replenish the pool of dopamine - by not engaging in dopamine seeking behaviours. 
+- "Balanced life":
+	- Doing activities throughout the week that spike dopamine: swimming, dancing, drinking on weekends, one or two nice lunches in the week, play hard work hard. 
+	- After several years of this, your baseline dopamine drops significantly (through subtle decrements) because your dopamine was constantly spiked throughout. After a point, you have low dopamine and all the symptoms of it - no drive or energy for anything.
+- Optimal way of consuming activities that invoke dopamine:
+	- How do we engage with life without experiencing drop in baseline dopamine levels
+	- Answer: Intermittent release of dopamine. Do not expect or chase high levels of dopamine very often
+	- Make high dopamine peaks less often and at random, or vary the levels of increased dopamine if the activity is done often 
+	- Don't layer all the dopamine activities at once all the time - say for workout, don't add music, pre workout coffee, etc. every single time.
+	- Remove multiple sources of dopamine release from activities that you ant to enjoy more or enjoy for longer.
+	- Caffeine is a bit better because increases the density and efficacy of dopamine receptors. Yerba Mate is even better because of neuron protective properties
+- Activities increasing dopamine:
+	- Cold exposure: cold showers, ice baths, cold water therapy increases dopamine levels #cold-showers
+		- Adapt yourself slowly to it though - very cold water if you're not used to can put you into shock. Cold enough - ~14 degrees C.
+		- Levels rise even after the shower, and rises sustainably to about 2.5X of baseline levels.
+		- Cortisol levels are transient, dopamine level sustained. It takes about 3 hours to come to baseline. 
+- Rewards, discipline, and motivation. #reward #discipline
+	- Working hard at something for the sake of the end goals/rewards makes the work that much harder and less pleasurable.
+	- Rewarding kids for something they loved (say drawing) and then taking their reward away led to the children enjoying the activity less than before the rewards started.
+		- Because post reward dopamine peak followed by dip leads to perception that the activity wasn't as enjoyable, only the reward was.
+	- So what works then?
+		- Growth mindset. Liking the activity that you're doing, you find pleasure in the process, in the growth and learning, and even the pain. 
+		- Attach the feeling of friction and effort to an internal reward system. You can tell yourself that you know this is not pleasureful but you're going to do this. 
+		- In moments of most intense friction, tell yourself, that in this moment, you are doing this by choice, and that you love it.
+		- Don't spike dopamine prior to the effort (say coffee). Don't spike it after. Let it spike through the effort itself. 
+	- That said, rewards do have a positive role in reinforcing how much you enjoy the activity. Knowing the rewards of hard work (say for exercise, or listening better) can make otherwise not inherently enjoyable behaviours more enjoyable. 
+- Porn: The accessibility and intensity of porn leads to frequent high dopamine spikes, which makes real world romantic and sexual interactions less pleasurable and therefore problematic/less satisfactory.
+- Supplements: #supplements
+	- Macuna purines is basically L-DOPA - precursor to dopamine. Short lasting boost followed by crash.
+	- l -tyrosine: Also leads to increased levels of dopamine, less of a crash. 
+	- Melatonin leads to decrease in dopamine - avoid.
+	- Bright lights after 10pm leads to lower dopamine for even a couple of days. 
+- Social interactions lead to oxytocin production which directly stimulates the mesolimbic pathways, leading to increased dopamine production,
