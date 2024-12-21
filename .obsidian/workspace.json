@@ -4,25 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "5e68e5bf376ccb7e",
-        "type": "tabs",
+        "id": "376bca590277d604",
+        "type": "split",
         "children": [
           {
-            "id": "74ffa4be772d1454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scratch.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scratch"
-            }
+            "id": "5e68e5bf376ccb7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74ffa4be772d1454",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "scratch.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "scratch"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c5480bc34a0b796d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e30c1606ef0fe37c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/adrshsrvstv/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "zsh",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "fontFamily": "JetBrains Mono",
+                          "fontSize": 14,
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 288,
+                        "data": "\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f\r\n./.DS_Store\r\n./.obsidian/snippets/.DS_Store\r\n./.obsidian/.DS_Store\r\n./.obsidian/plugins/.DS_Store\r\n./MOOCs/ML_Old-Coursera-AndrewNg/.DS_Store\r\n./Tutorial Notebooks/.DS_Store\r\n./Tutorial Notebooks/pytorch/.DS_Store\r\n./.git/.DS_Store\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f -delete\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .obsidian/plugins/.DS_Store\r\n\u001b[8Cdeleted:    .obsidian/snippets/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    MOOCs/ML_Old-Coursera-AndrewNg/.DS_Store\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f        \r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status                      \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .obsidian/plugins/.DS_Store\r\n\u001b[8Cdeleted:    .obsidian/snippets/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    MOOCs/ML_Old-Coursera-AndrewNg/.DS_Store\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m ",
+                        "rows": 42
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: adrshsrvstv@Adarshs-MBP:~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -185,7 +242,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "74ffa4be772d1454",
+  "active": "e30c1606ef0fe37c",
   "lastOpenFiles": [
     "scratch.md",
     "Tutorial Notebooks/pytorch/Video+6+-+Model+Training+with+PyTorch.ipynb",
