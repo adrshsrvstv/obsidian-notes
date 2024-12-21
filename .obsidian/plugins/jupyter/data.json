@@ -12,7 +12,7 @@
   "useStatusNotices": true,
   "displayFileRibbonIcon": true,
   "displayFolderContextMenuItem": true,
-  "openCreatedFileMode": "current-tab",
+  "openCreatedFileMode": "new-tab",
   "jupyterTimeoutMs": 30000,
   "debugConsole": true,
   "knownVersion": ""

@@ -19,7 +19,7 @@
   },
   "showLineNumber": true,
   "showIndentGuide": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "strictLineBreaks": true,
   "propertiesInDocument": "visible",
   "showInlineTitle": true,

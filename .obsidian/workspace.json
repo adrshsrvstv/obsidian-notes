@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "59aca3cf5ee2c45d",
+        "id": "5e68e5bf376ccb7e",
         "type": "tabs",
         "children": [
           {
-            "id": "001f0464098c02b4",
+            "id": "74ffa4be772d1454",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "/Users/adrshsrvstv/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "/bin/zsh",
-                    "name": "zsh",
-                    "platforms": {
-                      "darwin": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": true,
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "fontFamily": "JetBrains Mono",
-                      "fontSize": 14,
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": {
-                    "columns": 297,
-                    "data": "\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .ipynb_checkpoints/Python_tut-checkpoint.ipynb\r\n\u001b[8Cmodified:   .obsidian/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/plugins/jupyter/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   NUS/.DS_Store\r\n\u001b[8Cmodified:   Personal/.DS_Store\r\n\u001b[8Cmodified:   Python_tut.ipynb\r\n\u001b[8Cmodified:   Useful Scripts/.DS_Store\r\n\u001b[8Cdeleted:    Useful Scripts/.ipynb_checkpoints/python-checkpoint.ipynb\r\n\u001b[8Cmodified:   Useful Scripts/Setting up Python.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/jupyter/jupyter_lab_config.py\r\n\u001b[8C.obsidian/plugins/terminal/\r\n\u001b[8CUseful Scripts/attachments/\r\n\u001b[8Cautograd_tutorial.ipynb\r\n\u001b[8Ccifar10_tutorial.ipynb\r\n\u001b[8Cneural_networks_tutorial.ipynb\r\n\u001b[8CpyTorch tutorial.ipynb\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m rm */.DS_Store\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status    \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .ipynb_checkpoints/Python_tut-checkpoint.ipynb\r\n\u001b[8Cmodified:   .obsidian/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/plugins/jupyter/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    MOOCs/.DS_Store\r\n\u001b[8Cdeleted:    NUS/.DS_Store\r\n\u001b[8Cdeleted:    Personal/.DS_Store\r\n\u001b[8Cmodified:   Python_tut.ipynb\r\n\u001b[8Cdeleted:    Useful Scripts/.DS_Store\r\n\u001b[8Cdeleted:    Useful Scripts/.ipynb_checkpoints/python-checkpoint.ipynb\r\n\u001b[8Cmodified:   Useful Scripts/Setting up Python.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/jupyter/jupyter_lab_config.py\r\n\u001b[8C.obsidian/plugins/terminal/\r\n\u001b[8CUseful Scripts/attachments/\r\n\u001b[8Cautograd_tutorial.ipynb\r\n\u001b[8Ccifar10_tutorial.ipynb\r\n\u001b[8Cneural_networks_tutorial.ipynb\r\n\u001b[8CpyTorch tutorial.ipynb\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m rm .obsidian/.DS_Store\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status            \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .ipynb_checkpoints/Python_tut-checkpoint.ipynb\r\n\u001b[8Cdeleted:    .obsidian/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/plugins/jupyter/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   MOOCs/.DS_Store\r\n\u001b[8Cdeleted:    NUS/.DS_Store\r\n\u001b[8Cdeleted:    Personal/.DS_Store\r\n\u001b[8Cmodified:   Python_tut.ipynb\r\n\u001b[8Cdeleted:    Useful Scripts/.DS_Store\r\n\u001b[8Cdeleted:    Useful Scripts/.ipynb_checkpoints/python-checkpoint.ipynb\r\n\u001b[8Cmodified:   Useful Scripts/Setting up Python.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/jupyter/jupyter_lab_config.py\r\n\u001b[8C.obsidian/plugins/terminal/\r\n\u001b[8CUseful Scripts/attachments/\r\n\u001b[8Cautograd_tutorial.ipynb\r\n\u001b[8Ccifar10_tutorial.ipynb\r\n\u001b[8Cneural_networks_tutorial.ipynb\r\n\u001b[8CpyTorch tutorial.ipynb\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m rm MOOCs/.DS_Store\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m rm NUS/.DS_Store\r\nrm: NUS/.DS_Store: No such file or directory\r\n\u001b[31;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status        \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .ipynb_checkpoints/Python_tut-checkpoint.ipynb\r\n\u001b[8Cdeleted:    .obsidian/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/plugins/jupyter/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    MOOCs/.DS_Store\r\n\u001b[8Cdeleted:    NUS/.DS_Store\r\n\u001b[8Cdeleted:    Personal/.DS_Store\r\n\u001b[8Cmodified:   Python_tut.ipynb\r\n\u001b[8Cdeleted:    Useful Scripts/.DS_Store\r\n\u001b[8Cdeleted:    Useful Scripts/.ipynb_checkpoints/python-checkpoint.ipynb\r\n\u001b[8Cmodified:   Useful Scripts/Setting up Python.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/jupyter/jupyter_lab_config.py\r\n\u001b[8C.obsidian/plugins/terminal/\r\n\u001b[8CUseful Scripts/attachments/\r\n\u001b[8Cautograd_tutorial.ipynb\r\n\u001b[8Ccifar10_tutorial.ipynb\r\n\u001b[8Cneural_networks_tutorial.ipynb\r\n\u001b[8CpyTorch tutorial.ipynb\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m ",
-                    "rows": 89
-                  }
-                }
+                "file": "scratch.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: adrshsrvstv@Adarshs-MBP:~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes"
+              "icon": "lucide-file",
+              "title": "scratch"
             }
           }
         ]
@@ -214,23 +185,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "001f0464098c02b4",
+  "active": "74ffa4be772d1454",
   "lastOpenFiles": [
-    "Useful Scripts/Setting up Python.md",
-    "cifar10_tutorial.ipynb",
-    "neural_networks_tutorial.ipynb",
-    "autograd_tutorial.ipynb",
-    "Python_tut.ipynb",
-    "pyTorch tutorial.ipynb",
+    "Tutorial Notebooks/pytorch/Video+6+-+Model+Training+with+PyTorch.ipynb",
+    "Tutorial Notebooks/pytorch/datasets_tutorial.ipynb",
+    "Tutorial Notebooks/pytorch/Video+5+-+Tensorboard+Support+in+PyTorch.ipynb",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/projector_config.pbtxt",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/tensors.tsv",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/sprite.png",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/metadata.tsv",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Validation/events.out.tfevents.1734780795.Adarshs-MBP.local.31332.2",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Validation",
+    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Training/events.out.tfevents.1734780795.Adarshs-MBP.local.31332.1",
+    "README.md",
+    "Tutorial Notebooks/Untitled.md",
     "scratch.md",
-    "untitled.sh",
-    "cifar_net.pth",
-    "data/cifar-10-batches-py/data_batch_1",
-    "data/cifar-10-batches-py/data_batch_5",
-    "data/cifar-10-batches-py/data_batch_2",
+    "Useful Scripts/Setting up Python.md",
     "Useful Scripts/attachments/Screenshot 2024-12-19 at 7.23.43 PM.png",
     "Useful Scripts/attachments/Screenshot 2024-12-18 at 3.21.16 PM.png",
-    "README.md",
     "Thesis/Structuring the thesis.md",
     "Thesis/Review Comments.md",
     "Useful Scripts/bash.md",
@@ -252,7 +226,6 @@
     "NUS/Sem 4/Big Data/Big Data - Lecture 5, 6.md",
     "NUS/Sem 4/Big Data/Big Data - Lecture 3, 4, and MapReduce paper.md",
     "NUS/Sem 4/Big Data/Big Data - Lecture 1, 2.md",
-    "NUS/Sem 2/IR/Lab2_A0254358X.md",
     "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-29 at 3.03.50 AM.png",
     "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-23 at 4.37.00 PM.png",
     "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 9.13.59 PM.png",
