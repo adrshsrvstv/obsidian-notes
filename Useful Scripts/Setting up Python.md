@@ -20,7 +20,7 @@ First, DO NOT do these things:
 Now, assuming we are starting from a clean slate (no brew or miniconda installations or paths in bashrc), just download and install the `.dmg` from the python.org site. Ignore the GUI and unrelated scripts. Post that, you should have:
 
 ```bash
-$ which python3 pip3
+$ which -a python3 pip3
 /Library/Frameworks/Python.framework/Versions/3.13/bin/python3
 /Library/Frameworks/Python.framework/Versions/3.13/bin/pip3
 ```
@@ -53,6 +53,12 @@ Once done, deactivate with simply `deactivate`.
 > Venvs only reference the original python binary. So to create a venv with another python version, you need to call the venv creation module from that python version. So first install the version you need from python.org and then create venv by calling that particular python version, like:
 > 
 > `python3.8.1 -m venv <path_to_venv>`
+> 
+> Make sure you install python with only these options:
+> 
+> ![](attachments/Screenshot%202024-12-19%20at%207.23.43%20PM.png)
+> 
+> Then do Install Certificates from the application folder for proper SSL certificates to be installed.
 
 Create a default venv where you only install the basic packages such as numpy, pandas, matplotlib, etc. No specialized packaged at all - anything that can cause conflicts goes in its own venv. 
 

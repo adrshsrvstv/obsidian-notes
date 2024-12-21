@@ -1,10 +1,10 @@
 {
   "pythonExecutable": "path",
-  "pythonExecutablePath": "/Users/adrshsrvstv/.venvs/default/bin/python",
+  "pythonExecutablePath": "/Users/adrshsrvstv/.venvs/pytorch/bin/python",
   "startJupyterAuto": true,
   "jupyterEnvType": "notebook",
   "useSimpleMode": true,
-  "deleteCheckpoints": false,
+  "deleteCheckpoints": true,
   "moveCheckpointsToTrash": true,
   "checkpointsFolder": "",
   "updatePopup": true,
