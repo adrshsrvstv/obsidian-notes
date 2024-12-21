@@ -5,7 +5,7 @@
   "jupyterEnvType": "notebook",
   "useSimpleMode": true,
   "deleteCheckpoints": true,
-  "moveCheckpointsToTrash": true,
+  "moveCheckpointsToTrash": false,
   "checkpointsFolder": "",
   "updatePopup": true,
   "displayServerRibbonIcon": true,

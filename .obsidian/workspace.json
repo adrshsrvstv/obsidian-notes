@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 316.5
   },
   "right": {
     "id": "53d6393c368edbca",
@@ -187,6 +187,7 @@
   },
   "active": "74ffa4be772d1454",
   "lastOpenFiles": [
+    "scratch.md",
     "Tutorial Notebooks/pytorch/Video+6+-+Model+Training+with+PyTorch.ipynb",
     "Tutorial Notebooks/pytorch/datasets_tutorial.ipynb",
     "Tutorial Notebooks/pytorch/Video+5+-+Tensorboard+Support+in+PyTorch.ipynb",
@@ -198,10 +199,8 @@
     "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000",
     "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Validation/events.out.tfevents.1734780795.Adarshs-MBP.local.31332.2",
     "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Validation",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Training/events.out.tfevents.1734780795.Adarshs-MBP.local.31332.1",
     "README.md",
     "Tutorial Notebooks/Untitled.md",
-    "scratch.md",
     "Useful Scripts/Setting up Python.md",
     "Useful Scripts/attachments/Screenshot 2024-12-19 at 7.23.43 PM.png",
     "Useful Scripts/attachments/Screenshot 2024-12-18 at 3.21.16 PM.png",
