@@ -2,7 +2,8 @@
   "minimal-style@@bg1@@dark": "#0F0F0F",
   "CodeMirror Options@@cm-theme-selection": "cm-theme-material-palenight",
   "minimal-style@@minimal-code-scroll": true,
-  "minimal-style@@pdf-invert-dark": true,
-  "minimal-style@@pdf-blend-light": true,
-  "minimal-style@@pdf-dark-opacity": 1
+  "minimal-style@@pdf-invert-dark": false,
+  "minimal-style@@pdf-page-style": "pdf-seamless-on",
+  "minimal-style@@pdf-blend-light": false,
+  "minimal-style@@pdf-dark-opacity": 0.85
 }
