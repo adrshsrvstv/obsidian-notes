@@ -4,82 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "376bca590277d604",
-        "type": "split",
+        "id": "ca81411079ee0447",
+        "type": "tabs",
         "children": [
           {
-            "id": "5e68e5bf376ccb7e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "74ffa4be772d1454",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "scratch.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "scratch"
-                }
-              }
-            ]
-          },
-          {
-            "id": "c5480bc34a0b796d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e30c1606ef0fe37c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/adrshsrvstv/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "zsh",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "fontFamily": "JetBrains Mono",
-                          "fontSize": 14,
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 288,
-                        "data": "\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f\r\n./.DS_Store\r\n./.obsidian/snippets/.DS_Store\r\n./.obsidian/.DS_Store\r\n./.obsidian/plugins/.DS_Store\r\n./MOOCs/ML_Old-Coursera-AndrewNg/.DS_Store\r\n./Tutorial Notebooks/.DS_Store\r\n./Tutorial Notebooks/pytorch/.DS_Store\r\n./.git/.DS_Store\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f -delete\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .obsidian/plugins/.DS_Store\r\n\u001b[8Cdeleted:    .obsidian/snippets/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    MOOCs/ML_Old-Coursera-AndrewNg/.DS_Store\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f        \r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m git status                      \r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .obsidian/plugins/.DS_Store\r\n\u001b[8Cdeleted:    .obsidian/snippets/.DS_Store\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    MOOCs/ML_Old-Coursera-AndrewNg/.DS_Store\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m find . -name \".DS_Store\" -type f\r\n\u001b[32;1m➜  \u001b[36mNotes\u001b[0m \u001b[34;1mgit:(\u001b[31mmain\u001b[34m) \u001b[33m✗\u001b[0m ",
-                        "rows": 42
-                      }
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: adrshsrvstv@Adarshs-MBP:~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes"
-                }
-              }
-            ]
+            "id": "239c947b228547bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 519.5
   },
   "right": {
     "id": "53d6393c368edbca",
@@ -239,23 +177,31 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "e30c1606ef0fe37c",
+  "active": "b36e14795cd7408f",
   "lastOpenFiles": [
+    "NUS/NNDL/Labs/data/generate_ptb.ipynb",
+    "NUS/NNDL/Labs/data/generate_all_data.py",
+    "NUS/NNDL/data_collection_showcase.ipynb",
+    "NUS/NNDL/Labs/lecture08_labs/lab01_vrnn/vrnn_demo.ipynb",
+    "NUS/NNDL/Labs/lecture08_labs/lab01_vrnn/__pycache__/utils.cpython-37.pyc",
+    "NUS/NNDL/Labs/lecture08_labs/lab02_lstm/__pycache__/utils.cpython-37.pyc",
+    "NUS/NNDL/Labs/lecture09_labs/lab01_language_model/__pycache__/utils.cpython-37.pyc",
+    "NUS/NNDL/Labs/data/data_raw/valid.txt",
+    "NUS/NNDL/Labs/data/data_raw/train.txt",
+    "NUS/NNDL/Labs/data/data_raw/test.txt",
+    "NUS/NNDL/Labs/lecture09_labs/lab02_translation/utils.py",
+    "NUS/NNDL/hw3/CS5242_HW3_solution.md",
+    "NUS/NNDL/hw5/CS5242_HW5_Solution.md",
+    "NUS/NNDL/attachments/Screen Shot 2022-09-10 at 6.32.54 PM.png",
+    "NUS/Uncertainty/Uncertainty_report1.md",
+    "Untitled.md",
+    "Personal/Ring doorbell setup notes.md",
     "scratch.md",
-    "Tutorial Notebooks/pytorch/Video+6+-+Model+Training+with+PyTorch.ipynb",
-    "Tutorial Notebooks/pytorch/datasets_tutorial.ipynb",
-    "Tutorial Notebooks/pytorch/Video+5+-+Tensorboard+Support+in+PyTorch.ipynb",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/projector_config.pbtxt",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/tensors.tsv",
     "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/sprite.png",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/metadata.tsv",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Validation/events.out.tfevents.1734780795.Adarshs-MBP.local.31332.2",
-    "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/Training vs. Validation Loss_Validation",
     "README.md",
     "Tutorial Notebooks/Untitled.md",
     "Useful Scripts/Setting up Python.md",
@@ -268,26 +214,20 @@
     "Templates/frontmatter.md",
     "Thesis/results.md",
     "Personal/Stay Free.md",
-    "NUS/Sem 1/Uncertainty/Uncertainty_report2.md",
-    "NUS/Sem 1/Uncertainty/Uncertainty_report1.md",
+    "NUS/Uncertainty/Uncertainty_report2.md",
     "Personal/Time Management.md",
     "Personal/The Practicing Mind - Book Notes.md",
-    "Personal/Ring doorbell setup notes.md",
     "Personal/Andrew Huberman on Sugar.md",
     "Personal/Andrew Huberman on Dopamine.md",
-    "NUS/Sem 4/Big Data/Big Data L9, T3 - Streams.md",
-    "Untitled.md",
+    "NUS/Big Data/Big Data L9, T3 - Streams.md",
     "Papers/Untitled.md",
     "Papers/brohanRT1RoboticsTransformer2022.md",
-    "NUS/Sem 4/Big Data/Big Data - Lecture 5, 6.md",
-    "NUS/Sem 4/Big Data/Big Data - Lecture 3, 4, and MapReduce paper.md",
-    "NUS/Sem 4/Big Data/Big Data - Lecture 1, 2.md",
-    "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-29 at 3.03.50 AM.png",
-    "NUS/Sem 4/Big Data/attachments/Screenshot 2024-04-23 at 4.37.00 PM.png",
-    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 9.13.59 PM.png",
-    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 6.11.59 PM.png",
-    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-10 at 6.32.54 PM.png",
-    "NUS/Sem 1/NNDL/attachments/Screen Shot 2022-09-11 at 12.26.05 AM.png",
+    "NUS/Big Data/Big Data - Lecture 5, 6.md",
+    "NUS/Big Data/attachments/Screenshot 2024-04-29 at 3.03.50 AM.png",
+    "NUS/Big Data/attachments/Screenshot 2024-04-23 at 4.37.00 PM.png",
+    "NUS/NNDL/attachments/Screen Shot 2022-09-10 at 9.13.59 PM.png",
+    "NUS/NNDL/attachments/Screen Shot 2022-09-10 at 6.11.59 PM.png",
+    "NUS/NNDL/attachments/Screen Shot 2022-09-11 at 12.26.05 AM.png",
     "MOOCs/Startup School/attachments/Screen Shot 2022-07-11 at 10.45.44 PM.png"
   ]
 }

@@ -11,5 +11,6 @@
   "code-emitter",
   "jupyter",
   "obsidian-git",
-  "terminal"
+  "terminal",
+  "vscode-editor"
 ]
