@@ -3,12 +3,9 @@ title: Lab 4 Report
 subtitle: 
 author:
   - Adarsh Srivastava (A0254358X)
-date: 3 November, 2022
+date: e0954759@u.nus.edu
 tags:
 ---
-Name: Adarsh Srivastava  
-Email: e0954759@u.nus.edu  
-Student ID: A0254358X
 
 ## Part 1
 

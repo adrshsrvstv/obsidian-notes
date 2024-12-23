@@ -161,7 +161,7 @@
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": true
+      "enabled": false
     },
     "strong-style": {
       "enabled": false,

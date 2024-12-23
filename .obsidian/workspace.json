@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47eabb850717114e",
+        "id": "596a9a7dcca8482d",
         "type": "tabs",
         "children": [
           {
-            "id": "ab66cfa5003d8d76",
+            "id": "2dce4fb8eead62b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,13 +181,15 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "ab66cfa5003d8d76",
+  "active": "2dce4fb8eead62b4",
   "lastOpenFiles": [
+    "NUS/Uncertainty/lab4/Lab 4 Report.md",
+    "README.md",
+    "Useful Scripts/scratch.md",
     "NUS/Uncertainty/Exercise 2/CS5340 - Exercise 2.pdf",
     "NUS/Uncertainty/Exercise 1/CS5340 - Exercise 1.pdf",
     "NUS/Uncertainty/Exercise 2",
     "NUS/Uncertainty/Exercise 1",
-    "NUS/Uncertainty/lab4/Lab 4 Report.md",
     "NUS/Uncertainty/lab4/Lab 4 Submission/part2/main.py",
     "NUS/Uncertainty/lab4/Lab 4 Submission/part1/main.py",
     "NUS/Uncertainty/lab4/Lab 4 Submission/report.pdf",
@@ -195,7 +197,6 @@
     "NUS/Uncertainty/lab4/Lab 4 Submission/part1",
     "NUS/Uncertainty/lab4/Lab 4 Submission",
     "NUS/Uncertainty/lab3/Lab3 Report.md",
-    "NUS/Uncertainty/Exercise 2/Exercise 2 - Solutions.pdf",
     "NUS/Uncertainty/lab4/readme.md",
     "NUS/Uncertainty/lab2/Lab2_report2.md",
     "NUS/Uncertainty/lab2/Lab2_report1.md",
@@ -215,9 +216,7 @@
     "NUS/NNDL/attachments/Screen Shot 2022-09-10 at 6.32.54 PM.png",
     "Untitled.md",
     "Personal/Ring doorbell setup notes.md",
-    "scratch.md",
     "Tutorial Notebooks/pytorch/runs/fashion_mnist_experiment_1/00000/default/sprite.png",
-    "README.md",
     "Tutorial Notebooks/Untitled.md",
     "Useful Scripts/Setting up Python.md",
     "Useful Scripts/attachments/Screenshot 2024-12-19 at 7.23.43 PM.png",
