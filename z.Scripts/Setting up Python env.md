@@ -1,5 +1,5 @@
 ---
-title: Setting up Python The Right Way
+title: Setting Up Your Python Environment The Right Way
 subtitle: Or at least how I do it.
 author:
   - Adarsh Srivastava
@@ -7,9 +7,7 @@ date: 13 December, 2024
 tags:
 ---
 
-## Installing stuff
-
-### macOS
+## Installing Python (on a macOS machine)
 
 First, DO NOT do these things:
 
@@ -42,6 +40,7 @@ $ source <venv_path>/bin/activate
 ```
 
 And then run:
+
 ```bash
 $ python3 -m pip install --upgrade pip setuptools wheel
 ```
@@ -52,7 +51,7 @@ Once done, deactivate with simply `deactivate`.
 > 
 > Venvs only reference the original python binary. So to create a venv with another python version, you need to call the venv creation module from that python version. So first install the version you need from python.org and then create venv by calling that particular python version, like:
 > 
-> `python3.8.1 -m venv <path_to_venv>`
+> `python3.12 -m venv <path_to_venv>`
 > 
 > Make sure you install python with only these options:
 > 
@@ -73,12 +72,13 @@ $ python3 -m pip freeze > requirements.txt
 ```
 
 To install from requirements:
+
 ```bash
 $ python3 -m pip install -r requirements.txt
 ```
 
-## Installing Jupyter
+## Installing the essentials
 
 ```bash
-pip install jupyterlab
+pip install numpy, pandas, matplotlib, jupyterlab, notebook
 ```

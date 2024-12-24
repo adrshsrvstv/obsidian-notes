@@ -23,5 +23,6 @@
   "strictLineBreaks": true,
   "propertiesInDocument": "visible",
   "showInlineTitle": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "showUnsupportedFiles": true
 }

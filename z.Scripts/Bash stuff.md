@@ -4,7 +4,7 @@ Follow the following steps to use Jupyter Notebook launched from remote server.
 
 1. Launch Jupyter Notebook from remote server, selecting a port number for <PORT>:
 
-```python
+```bash
 jupyter notebook --no-browser --port=1303
 ```
 
@@ -20,7 +20,7 @@ The above command opens up a new SSH session in the terminal.
 
 3. Open a browser from your local machine and navigate to `http://localhost:8080/`, the Jupyter Notebook web interface. Replace 8080 with your port number used in step 1.
 
-```python
+```bash
 jupyter notebook --no-browser --ip=2405:201:600a:c0b9:dff7:f139:bd4:5e39 --port=8888 
 ```
 
